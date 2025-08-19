@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* make editor fill nicely */
+.cm-editor { height: 100%; }
